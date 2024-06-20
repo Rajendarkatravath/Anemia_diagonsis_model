@@ -2,7 +2,7 @@ import streamlit as st
 import base64
 
 def app():
-    st.title("Data Analysis Dashboard")
+    
     st.header("Overview")
     st.markdown("""
     Welcome to the **Anemia Diagnosis Analysis and Model Development App**!
